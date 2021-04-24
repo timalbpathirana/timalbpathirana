@@ -1,8 +1,6 @@
-<p align="center">
-Hello there 👋🏼 <br> I am Timal 😃 <br>
-<img src='https://media.giphy.com/media/l2R0aUFFfV8OIo4nu/giphy.gif' width="240px" align="center">
-<br>
- I'm a Student 👨🏼‍🎓, Developer 👨🏽‍💻 , and a Japanese car enthusiast 🚗 !
+
+### Hello there 👋🏼 , I am Timal 😃 
+## I'm a Student 👨🏼‍🎓, Developer 👨🏽‍💻 , and a Japanese car enthusiast 🚗 !
 
 - 🌱 I am currently learning React and Material UI 😇
 - 👯 I am looking to collaborate with other developers
@@ -38,4 +36,3 @@ Languages and Tools:
 [instagram]: https://instagram.com/teexjdm/
 [linkedin]: https://linkedin.com/in/timalpathirana/
 
-</p>
