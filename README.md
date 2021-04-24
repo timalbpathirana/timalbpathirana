@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" width="150px">
 </p>
 <h2 align="center"> Quick Intro 👋</h2>
-<p align="center">I'm a near graduate student pursuing Bachelor of Information Technology at RMIT University Melbourne Australia.✨ 
+<p align="center">I'm a near graduate student pursuing bachelor of Information Technology at RMIT University Melbourne Australia.✨ 
 </p>
 
 <p align="center"> Apart from coding 💻 , I pretty much eat, sleep and repeat 🤣 </p>
