@@ -3,9 +3,10 @@
 <h2 align="center"> Quick Intro 👋</h2>
 <p align="center">I'm a near graduate student pursuing bachelor of Information Technology at RMIT University Melbourne Australia.✨ 
 </p>
-<p align="center"><a href="https://www.linkedin.com/in/timalpathirana/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/teexjdm/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-</p>
 
+<p align="center"><a href="https://www.linkedin.com/in/timalpathirana/"><img src="https://image.flaticon.com/icons/png/512/1384/1384046.png" height=60></a> 
+ &nbsp <a href="https://www.instagram.com/teexjdm/"><img src="https://image.flaticon.com/icons/png/512/1400/1400829.png" height=60></a> 
+</p>
  ```java
  public class Myself{
 
