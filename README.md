@@ -6,9 +6,6 @@
 <p align="center"><a href="https://www.linkedin.com/in/timalpathirana/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/teexjdm/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
-
-<h2 align="center"> Who am I? </h2>
-
  ```java
  public class Myself{
 
