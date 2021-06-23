@@ -1,12 +1,8 @@
-<p align="center"> 
-<img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" width="150px">
-</p>
+![gitBanner](https://user-images.githubusercontent.com/68840709/123083939-f1e37a80-d463-11eb-9ba5-d8818878705c.gif)
+
 <h2 align="center"> Quick Intro 👋</h2>
 <p align="center">I'm a near graduate student pursuing bachelor of Information Technology at RMIT University Melbourne Australia.✨ 
 </p>
-
-<p align="center"> Apart from coding 💻 , I pretty much eat, sleep and repeat 🤣 </p>
-
 <p align="center"><a href="https://www.linkedin.com/in/timalpathirana/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/teexjdm/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
