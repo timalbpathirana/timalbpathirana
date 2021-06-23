@@ -7,14 +7,13 @@
 <p align="center"><a href="https://www.linkedin.com/in/timalpathirana/"><img src="https://image.flaticon.com/icons/png/512/1384/1384046.png" height=60></a> 
  &nbsp <a href="https://www.instagram.com/teexjdm/"><img src="https://image.flaticon.com/icons/png/512/1400/1400829.png" height=60></a> 
 </p>
+
  ```java
  public class Myself{
 
     public static String name = "Timal Pathirana";
-
     public static void whoAmI() {
         System.out.println("My name is " + name);
-    
     };
     public static void aboutMe() {
         String[] info = {
@@ -22,21 +21,17 @@
             "👯 I am looking to collaborate with other developers",
             "🥅 2021 Goals: Contribute more to Open Source projects.",
             "⚡ Fun fact: I love making and drinking coffee 🤣"
-        };
-            
+        }; 
             for (int i = 0; i < info.length; i++) {
             System.out.println(info[i]);}
     }
      public static void main(String []args){
-         
         System.out.println("Hello Everyone!! 😇");
         whoAmI();
-        aboutMe();
-        
-        
+        aboutMe();   
     }
-}
- ``` 
+} 
+``` 
  
  
  
