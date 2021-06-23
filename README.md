@@ -37,10 +37,6 @@
     }
 }
  ``` 
-<!-- <p align="center">
- <img src="https://media.giphy.com/media/3ohhwstto53M5eXMOY/giphy.gif" width="300px">
- </p> -->
-
  
  
  
