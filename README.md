@@ -1,15 +1,4 @@
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNtNjYwd3Q2anBvMTdiNHN4c21saWR3NjFxM29janVqN2I5MHh6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRPy8MKag9U1U88hzY/giphy.gif"
-    width="180"
-    height="180"
-    style="border-radius: 50%; object-fit: cover;"
-  />
-</p>
-
-<h1 align="center">Timal Pathirana</h1>
-
-<p align="center">
   <b>Software Engineer • Distributed Systems • AI Orchestration</b><br/>
   Building reliable systems where AI workflows can operate predictably at scale.
 </p>
