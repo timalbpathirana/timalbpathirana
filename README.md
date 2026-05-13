@@ -40,13 +40,6 @@
 
 ---
 
-## Projects & ventures
-
-- **ImagineHumans AI** — building practical AI agents and automation for real businesses  
-- **Spaceberry.io** — a creator-first platform for community + digital products (Launching soon)
-
----
-
 ## A few things about me
 
 - I like clean systems, clean UI, and measurable outcomes.
