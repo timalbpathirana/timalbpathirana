@@ -10,8 +10,8 @@
 <h1 align="center">Timal Pathirana</h1>
 
 <p align="center">
-  <b>Software Engineer • AI Systems Builder • FinTech</b><br/>
-  Building production-grade systems where AI collaboration actually ships.
+  <b>Software Engineer • Distributed Systems • AI Orchestration</b><br/>
+  Building reliable systems where AI workflows can operate predictably at scale.
 </p>
 
 <p align="center">
@@ -23,28 +23,25 @@
 ---
 
 ## What I’m focused on
-
-- **Backend + Distributed Systems**: scalable APIs, microservices, reliability, performance
-- **AI Automation in Real Products**: turning LLM workflows into maintainable engineering systems
-- **FinTech + Data Platforms**: compliance-aware workflows, CDC pipelines, analytics, monitoring
+- Backend + Distributed Systems: scalable APIs, orchestration, reliability, performance
+- AI Workflow Engineering: structured LLM pipelines, validation, multimodal generation
+- FinTech + Data Platforms: CDC pipelines, observability, analytics, compliance-aware systems
 
 ---
 
-## Tech stack I work with
+## Tech stack
 
-**Core:** C# / .NET, SQL, AWS  
-**Data:** CDC patterns, Snowflake-style analytics workflows, Airbyte-style ingestion  
-**Observability:** Dynatrace, CloudWatch, FullStory  
-**Testing:** xUnit, AutoFixture/AutoMocker, E2E testing  
-**Frontend (working knowledge):** Angular, React (where needed)
+- C# / .NET • SQL • AWS  
+- Distributed systems • CDC pipelines • Observability • Automated testing  
+- Working knowledge: Angular, React
 
 ---
 
 ## A few things about me
 
-- I like clean systems, clean UI, and measurable outcomes.
-- I enjoy shipping tools that remove repetitive work and increase leverage.
-- Melbourne-based (Australia) 🇦🇺 • originally from Sri Lanka 🇱🇰 .
+- I enjoy building systems that are modular, observable, and easy to reason about.
+- Interested in the intersection of AI orchestration, product thinking, and software engineering.
+- Based in Melbourne, Australia 🇦🇺 • Originally from Sri Lanka 🇱🇰
 
 ---
 
